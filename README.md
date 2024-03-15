@@ -2,6 +2,10 @@
 A basic HTML, CSS challenge from Frontend Mentor. This project was made to practice flexbox, and basic layouts.
 This is the solution to the project
 
+<h2> Outcome </h2>
+
+<img src="https://i.imgur.com/cQsoZhL.png" alt="The image of the solution to the challenge"
+
 <h2> What have I learned </h2>
 
 <li> I've improved my flexbox skills </li>
