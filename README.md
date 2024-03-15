@@ -8,7 +8,7 @@ A basic HTML, CSS challenge from Frontend Mentor. This challenge was made to pra
 <h2> Links </h2>
 
 <li> Link to solution: </li>
-<li> Link to live demo: </li>
+<li> Link to live demo: https://blaze4884.github.io/QR-Code-Component/ </li>
 
 <h2> What have I learned </h2>
 
