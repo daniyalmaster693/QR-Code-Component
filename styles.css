@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Outfit:wght@100..900&display=swap");
+
+body {
+  background-color: #d5e1ef;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  background-color: white;
+  border-radius: 15px;
+  height: 465px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+}
+
+.card div {
+  display: flex;
+  justify-content: center;
+}
+
+.qrcode {
+  width: 270px;
+  height: 270px;
+  border-radius: 10px;
+  margin: 15px;
+  margin-bottom: 9px;
+}
+
+.heading {
+  font-family: "Outfit";
+  font-weight: 700;
+  font-size: 21px;
+  width: 90%;
+  align-self: center;
+  text-align: center;
+  color: #1f3251;
+}
+
+.subtext {
+  color: #7b87a6;
+  font-family: "Outfit";
+  font-weight: 400;
+  font-size: 14px;
+  align-self: center;
+  text-align: center;
+  padding: 0 30px;
+  margin-top: 1px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  font-size: 11px;
+  text-align: center;
+  color: #1f3d69;
+  font-family: "Outfit";
+  margin-bottom: 4px;
+}
+
+a:link {
+  color: #1f3d69;
+}
+
+a:visited {
+  color: #1f3d69;
+}
