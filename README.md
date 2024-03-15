@@ -4,7 +4,7 @@ This is the solution to the project
 
 <h2> Outcome </h2>
 
-<img src="https://i.imgur.com/cQsoZhL.png" alt="The image of the solution to the challenge"
+<img src="https://i.imgur.com/cQsoZhL.png" alt="The image of the solution to the challenge">
 
 <h2> What have I learned </h2>
 
