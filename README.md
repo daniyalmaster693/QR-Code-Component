@@ -1,6 +1,5 @@
 # QR-Code-Component
-A basic HTML, CSS challenge from Frontend Mentor. This project was made to practice flexbox, and basic layouts.
-This is the solution to the project
+A basic HTML, CSS challenge from Frontend Mentor. This challenge was made to practice flexbox and basic layouts. This is the solution to the challenge.
 
 <h2> Outcome </h2>
 
