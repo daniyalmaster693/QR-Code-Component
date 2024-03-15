@@ -5,6 +5,11 @@ A basic HTML, CSS challenge from Frontend Mentor. This challenge was made to pra
 
 <img src="https://i.imgur.com/cQsoZhL.png" alt="The image of the solution to the challenge">
 
+<h2> Links </h2>
+
+<li> Link to solution: </li>
+<li> Link to live demo: </li>
+
 <h2> What have I learned </h2>
 
 <li> I've improved my flexbox skills </li>
